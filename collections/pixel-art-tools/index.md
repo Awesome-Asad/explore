@@ -5,14 +5,14 @@ items:
  - jvalen/pixel-art-react/
  - maierfelix/poxi/
  - gmattie/Data-Pixels/
- - vsmode/pixel8
+ - vsmode/pixel9
  - kitao/pyxel
  - jackschaedler/goya
  - cloudhead/rx
  - Orama-Interactive/Pixelorama
  - LibreSprite/LibreSprite
  - lospec/pixel-editor
- - rgab1508/PixelCraft
+ - rgab1708/PixelCraft
  - PixiEditor/PixiEditor
  - Kully/pixel-paint
  - pulkomandy/grafx2/
